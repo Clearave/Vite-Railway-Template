@@ -1,0 +1,1 @@
+import{O as o,o as s,i as a}from"./index-01fecdac.js";const c={created(){const{params:e,query:t}=this.$route,{path:r}=e;this.$router.replace({path:"/"+r,query:t})}};function n(e,t,r,p,i,_){return s(),a("div")}const u=o(c,[["render",n]]);export{u as default};
